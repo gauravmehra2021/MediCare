@@ -7,7 +7,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 50,
     mrp: 1600,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMCAL K2-7",
@@ -17,7 +17,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 55,
     mrp: 2400,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMCAST-M",
@@ -27,7 +27,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 70,
     mrp: 1800,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "D-6",
@@ -37,7 +37,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 45,
     mrp: 1800,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMPO 200",
@@ -47,7 +47,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 90,
     mrp: 3000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMOCEF-O LB",
@@ -57,7 +57,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 60,
     mrp: 2000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM-AZ 250 LB",
@@ -67,7 +67,7 @@ export const products = [
     packing: "BLISTER",
     netRate: 25,
     mrp: 960,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMOCEF 200",
@@ -77,7 +77,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 65,
     mrp: 3000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM-SAM 500 LB",
@@ -87,7 +87,7 @@ export const products = [
     packing: "BLISTER",
     netRate: 25,
     mrp: 960,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM-SAM 500",
@@ -97,7 +97,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 280,
     mrp: 4000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "VIZOL-M",
@@ -107,7 +107,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 80,
     mrp: 1500,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "CIPOFIX CV",
@@ -117,7 +117,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 70,
     mrp: 3000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "DICIN LB-125",
@@ -127,7 +127,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 90,
     mrp: 2400,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM-C 500",
@@ -137,7 +137,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 50,
     mrp: 1000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAMPO-CD",
@@ -147,7 +147,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 90,
     mrp: 4000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "VIZOL SAM 500",
@@ -157,7 +157,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 60,
     mrp: 1000,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "FERISAM-XT",
@@ -167,7 +167,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 60,
     mrp: 1800,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM PAN 40 TAB",
@@ -177,7 +177,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 80,
     mrp: 760,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "SAM RAB 20",
@@ -187,7 +187,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 20,
     mrp: 660,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
 
 
@@ -285,7 +285,7 @@ export const products = [
   {
     name: "SAM COL DS",
     category: "Liquid Syrup",
-    description: "PARACETAMOL PHENYLEPHRINE HCL CHLORPHENIRAMINE MALEATE SUSPENSION",
+    description: "PARACETAMOL PHENYLEPHRINE HCL Capsules MALEATE SUSPENSION",
     pack: "60ML",
     packing: "BOTTLE",
     netRate: 10.5,
@@ -415,7 +415,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 150,
     mrp: 3100,
-    image: "https://via.placeholder.com/300"
+    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
   },
   {
     name: "ESO-SAM ED",

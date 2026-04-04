@@ -42,9 +42,11 @@ export function ContactSection() {
                 <div>
                   <h4 className="mb-2">Address</h4>
                   <p className="text-muted-foreground">
-                    123 Medical Plaza<br />
-                    Healthcare District<br />
-                    New York, NY 10001
+                    Kharoti (Kharoti BO)<br />
+                    Tehsil/Sub-District: Salooni<br />
+                    Himachal Pradesh (176320)
+
+
                   </p>
                 </div>
               </div>
