@@ -15,8 +15,8 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h4 className="mb-2">Phone</h4>
-                  <p className="text-muted-foreground">+1 (555) 123-4567</p>
-                  <p className="text-muted-foreground">+1 (555) 987-6543</p>
+                  <p className="text-muted-foreground">+91 98163 62288</p>
+                  <p className="text-muted-foreground">+91 98163 62288</p>
                 </div>
               </div>
             </div>

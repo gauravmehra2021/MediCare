@@ -2,11 +2,11 @@ interface ProductCardProps {
   name: string;
   category: string;
   description: string;
-  dosage: string;
+//   dosage: string;
   imageUrl: string;
 }
 
-export function ProductCard({ name, category, description, dosage, imageUrl }: ProductCardProps) {
+export function ProductCard({ name, category, description, imageUrl }: ProductCardProps) {
   return (
     <div className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 hover:scale-105">
       <div className="h-48 overflow-hidden">
@@ -23,7 +23,7 @@ export function ProductCard({ name, category, description, dosage, imageUrl }: P
         <h3 className="font-semibold mb-2">{name}</h3>
         <p className="text-sm text-muted-foreground mb-3">{description}</p>
         <div className="text-sm text-accent border-t border-border pt-3">
-          <strong>Dosage:</strong> {dosage}
+          {/* <strong>Dosage:</strong> {dosage} */}
         </div>
       </div>
     </div>
