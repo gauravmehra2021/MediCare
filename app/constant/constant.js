@@ -7,7 +7,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 50,
     mrp: 1600,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-mol-p.jpeg"
   },
   {
     name: "SAMCAL K2-7",
@@ -47,7 +47,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 90,
     mrp: 3000,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sampod 200.jpeg"
   },
   {
     name: "SAMOCEF-O LB",
@@ -301,7 +301,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 35,
     mrp: 114,
-    image: "https://images.unsplash.com/photo-1584308878768-57d3387b1882?w=400"
+    image: "/sam-Az-200.jpeg"
   },
   {
     name: "SAMCLAV-LB DS",
@@ -311,7 +311,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 22,
     mrp: 120,
-    image: "https://images.unsplash.com/photo-1584308878768-57d3387b1882?w=400"
+    image: "/samclav-lb-ds.jpeg"
   },
   {
     name: "SAMCLAV-DDS",
@@ -321,7 +321,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 32,
     mrp: 195,
-    image: "https://images.unsplash.com/photo-1584308878768-57d3387b1882?w=400"
+    image: "/samclav-dds.jpeg"
   },
 
   {
@@ -342,7 +342,7 @@ export const products = [
     packing: "INJ",
     netRate: 9,
     mrp: 57.6,
-    image: "https://images.unsplash.com/photo-1731942717333-d01fb8304f4a?w=400"
+    image: "/sam-pan-40-injection.jpeg"
   },
 
   {
@@ -353,7 +353,7 @@ export const products = [
     packing: "JAR",
     netRate: 45,
     mrp: 399,
-    image: "https://images.unsplash.com/photo-1729949127879-2d6556e2aee8?w=400"
+    image: "/sam-pro1.jpeg"
   },
   {
     name: "SAM PRO",
@@ -363,7 +363,7 @@ export const products = [
     packing: "JAR",
     netRate: 45,
     mrp: 355,
-    image: "https://images.unsplash.com/photo-1729949127879-2d6556e2aee8?w=400"
+    image: "/sam-pro1.jpeg"
   },
 
   {
@@ -395,7 +395,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 110,
     mrp: 1600,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-pan-dsr.jpeg"
   },
   {
     name: "SAM RAB DSR",
@@ -405,7 +405,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 90,
     mrp: 1800,
-   image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+   image: "/sam-rab-dsr.jpeg"
   },
   {
     name: "SAM R LS",
@@ -415,7 +415,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 150,
     mrp: 3100,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-rls.jpeg"
   },
   {
     name: "ESO-SAM ED",
@@ -425,7 +425,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 130,
     mrp: 1300,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/esosam-Ed.jpeg"
   },
   {
     name: "BIFIPRO",
@@ -435,7 +435,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 120,
     mrp: 1300,
-image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+image: "/biffpro.jpeg"
   },
   {
     name: "CARDEXAMIN",
@@ -445,7 +445,7 @@ image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
     packing: "BLISTER",
     netRate: 120,
     mrp: 1450,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/cardexamin.jpeg"
   },
   {
     name: "CAL-SAM 60K",
@@ -455,7 +455,7 @@ image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
     packing: "BLISTER",
     netRate: 100,
     mrp: 1400,
-   image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+   image: "/cal-sam-60k.jpeg"
   },
   {
     name: "TOR-SAM-13G",
@@ -465,7 +465,7 @@ image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
     packing: "BLISTER",
     netRate: 240,
     mrp: 3550,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/tor-sam-13g.jpeg"
   },
   {
     name: "NEUROSAM-RF",
@@ -475,7 +475,7 @@ image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
     packing: "ALU ALU",
     netRate: 190,
     mrp: 310,
-   image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+   image: "/newurosam-RF.jpeg"
   }
 ];
 
