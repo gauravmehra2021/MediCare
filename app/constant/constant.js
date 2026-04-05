@@ -200,7 +200,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 15,
     mrp: 110,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/s-cuf-dm.jpg"
   },
   {
     name: "S CUF AM",
@@ -210,7 +210,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 14,
     mrp: 115,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/S-CUF-AM.jpg"
   },
   {
     name: "SM-ZYME",
@@ -220,7 +220,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 18,
     mrp: 135,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/Sm-zyme.jpeg"
   },
   {
     name: "LYCO-SAM",
@@ -230,7 +230,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 18,
     mrp: 140,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/lycosam.jpeg"
   },
   {
     name: "FERRISAM-XT",
@@ -240,7 +240,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 21,
     mrp: 140,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/Ferrisam-xtt.jpeg"
   },
   {
     name: "PLATO SAM",
@@ -250,7 +250,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 20,
     mrp: 170,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/plato-sam-s.jpeg"
   },
   {
     name: "CYPOSAM",
@@ -260,7 +260,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 20,
     mrp: 140,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/Cyposam.jpeg"
   },
   {
     name: "LYCO-Z",
@@ -270,7 +270,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 18,
     mrp: 199,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/Lyco-z.jpeg"
   },
   {
     name: "LEVOSAM-M",
@@ -280,7 +280,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 14,
     mrp: 90,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/Levosam-m.jpeg"
   },
   {
     name: "SAM COL DS",
@@ -290,7 +290,7 @@ export const products = [
     packing: "BOTTLE",
     netRate: 10.5,
     mrp: 85,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400"
+    image: "/sam-cold-ds.jpeg"
   },
 
   {

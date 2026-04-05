@@ -2,29 +2,37 @@ interface ProductCardProps {
   name: string;
   category: string;
   description: string;
-//   dosage: string;
   imageUrl: string;
 }
 
 export function ProductCard({ name, category, description, imageUrl }: ProductCardProps) {
   return (
-    <div className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 hover:scale-105">
-      <div className="h-48 overflow-hidden">
+    <div className="group bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+
+      {/* Image Section */}
+      <div className="h-60 flex items-center justify-center bg-gradient-to-b from-gray-50 to-gray-100 p-6">
         <img
           src={imageUrl}
           alt={name}
-          className="w-full h-full object-cover"
+          className="max-h-full object-contain transition-transform duration-300 group-hover:scale-110"
         />
       </div>
-      <div className="p-4">
-        <div className="inline-block px-3 py-1 bg-primary/10 text-primary rounded-full text-xs mb-2">
+
+      {/* Content */}
+      <div className="p-5">
+
+        <span className="inline-block text-xs font-medium px-3 py-1 bg-blue-100 text-blue-600 rounded-full mb-3">
           {category}
-        </div>
-        <h3 className="font-semibold mb-2">{name}</h3>
-        <p className="text-sm text-muted-foreground mb-3">{description}</p>
-        <div className="text-sm text-accent border-t border-border pt-3">
-          {/* <strong>Dosage:</strong> {dosage} */}
-        </div>
+        </span>
+
+        <h3 className="text-lg font-semibold text-gray-800 mb-1">
+          {name}
+        </h3>
+
+        <p className="text-sm text-gray-500">
+          {description}
+        </p>
+
       </div>
     </div>
   );
