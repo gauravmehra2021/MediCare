@@ -374,7 +374,7 @@ export const products = [
     packing: "SACHET",
     netRate: 4,
     mrp: 24.5,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-ors.jpeg"
   },
   {
     name: "SAM BOOST",
@@ -384,7 +384,7 @@ export const products = [
     packing: "SACHET",
     netRate: 15,
     mrp: 99,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-boost.jpeg"
   },
 
     {
