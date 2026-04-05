@@ -37,7 +37,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 45,
     mrp: 1800,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/dj-6.jpeg"
   },
   {
     name: "SAMPO 200",
@@ -67,7 +67,7 @@ export const products = [
     packing: "BLISTER",
     netRate: 25,
     mrp: 960,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-az-250-lb.jpeg"
   },
   {
     name: "SAMOCEF 200",
@@ -137,7 +137,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 50,
     mrp: 1000,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/sam-c-500.jpeg"
   },
   {
     name: "SAMPO-CD",
@@ -167,7 +167,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 60,
     mrp: 1800,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/ferrisam-xtt.jpeg"
   },
   {
     name: "SAM PAN 40 TAB",
@@ -187,7 +187,7 @@ export const products = [
     packing: "ALU ALU",
     netRate: 20,
     mrp: 660,
-    image: "https://images.unsplash.com/photo-1590982680247-9a91517b4ac0?w=400"
+    image: "/samrab-20.jpeg"
   },
 
 
